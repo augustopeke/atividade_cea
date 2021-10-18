@@ -1,0 +1,16 @@
+C:\Users\Augusto Nascimento\source\repos\AtividadeCea\AtividadeCea\bin\Debug\net5.0\AtividadeCea.exe
+C:\Users\Augusto Nascimento\source\repos\AtividadeCea\AtividadeCea\bin\Debug\net5.0\AtividadeCea.deps.json
+C:\Users\Augusto Nascimento\source\repos\AtividadeCea\AtividadeCea\bin\Debug\net5.0\AtividadeCea.runtimeconfig.json
+C:\Users\Augusto Nascimento\source\repos\AtividadeCea\AtividadeCea\bin\Debug\net5.0\AtividadeCea.runtimeconfig.dev.json
+C:\Users\Augusto Nascimento\source\repos\AtividadeCea\AtividadeCea\bin\Debug\net5.0\AtividadeCea.dll
+C:\Users\Augusto Nascimento\source\repos\AtividadeCea\AtividadeCea\bin\Debug\net5.0\ref\AtividadeCea.dll
+C:\Users\Augusto Nascimento\source\repos\AtividadeCea\AtividadeCea\bin\Debug\net5.0\AtividadeCea.pdb
+C:\Users\Augusto Nascimento\source\repos\AtividadeCea\AtividadeCea\obj\Debug\net5.0\AtividadeCea.csproj.AssemblyReference.cache
+C:\Users\Augusto Nascimento\source\repos\AtividadeCea\AtividadeCea\obj\Debug\net5.0\AtividadeCea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto Nascimento\source\repos\AtividadeCea\AtividadeCea\obj\Debug\net5.0\AtividadeCea.AssemblyInfoInputs.cache
+C:\Users\Augusto Nascimento\source\repos\AtividadeCea\AtividadeCea\obj\Debug\net5.0\AtividadeCea.AssemblyInfo.cs
+C:\Users\Augusto Nascimento\source\repos\AtividadeCea\AtividadeCea\obj\Debug\net5.0\AtividadeCea.csproj.CoreCompileInputs.cache
+C:\Users\Augusto Nascimento\source\repos\AtividadeCea\AtividadeCea\obj\Debug\net5.0\AtividadeCea.dll
+C:\Users\Augusto Nascimento\source\repos\AtividadeCea\AtividadeCea\obj\Debug\net5.0\ref\AtividadeCea.dll
+C:\Users\Augusto Nascimento\source\repos\AtividadeCea\AtividadeCea\obj\Debug\net5.0\AtividadeCea.pdb
+C:\Users\Augusto Nascimento\source\repos\AtividadeCea\AtividadeCea\obj\Debug\net5.0\AtividadeCea.genruntimeconfig.cache
